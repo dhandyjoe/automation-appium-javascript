@@ -1,0 +1,4 @@
+{
+   "standard": { "username": "Standard User", "email": "standard_user", "password": "Practice123!" },
+   "user1": { "username": "dhandyjoe1", "email": "dhandy1@example.com", "password": "Practice123!" }
+}
